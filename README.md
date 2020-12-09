@@ -1,2 +1,2 @@
-# Electic-
+# Electic
 Web Application Development
