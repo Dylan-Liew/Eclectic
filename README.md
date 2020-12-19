@@ -19,5 +19,6 @@ Web App Application for Eclectic E-commerce Website
 ### Configuration/Installation
 * Please read this guide to create your project on **Pycharm** 
   * https://www.jetbrains.com/help/pycharm/creating-and-running-your-first-python-project.html#create-file
-* Run `py -m pip install -r requirements.txt` on your pycharm terminal 
+* Run `py -m pip install -r requirements.txt` on your pycharm terminal to install the packages required
+* Run the `Eclectic.py` file
 
