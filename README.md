@@ -11,7 +11,7 @@ Web App Application for Eclectic E-commerce Website
 * [Dylan](https://github.com/Dylan-Liew)
 * [Joel](https://github.com/j041)
 * [William](https://github.com/willy00)
-* [Cassandra](https://github.com/Cassandra-Fu) (Extra)
+* [Cassandra](https://github.com/Cassandra-Fu)
 
 ### Technologies:
 * Python 3.7.3
